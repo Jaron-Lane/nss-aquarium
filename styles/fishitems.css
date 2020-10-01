@@ -1,0 +1,16 @@
+.fishList {
+    display: flex;
+    padding: .5em;
+}
+
+
+.fish {
+    display: flex;
+    flex-wrap: wrap;
+    flex-basis: 30%;
+    text-align: center;
+}
+
+.travel__quotes {
+    text-align: center;
+}
